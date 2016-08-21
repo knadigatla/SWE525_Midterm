@@ -4,3 +4,4 @@ structure. This capability is very useful, in case you want to analyze a git com
 graph’s structure
 adding more content, modifying existing file1.txt
 updaing file1.txt
+updaing some file1
