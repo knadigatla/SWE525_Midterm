@@ -1,0 +1,4 @@
+This recipe explains how you can create many divergent branches. We only use commands already quite well-known
+to achieve this: clone, checkout, and simple-commit. That’s how you can easily generate a repository with a given
+structure. This capability is very useful, in case you want to analyze a git command and the impact it has on the
+graph’s structure
